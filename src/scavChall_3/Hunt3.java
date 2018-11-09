@@ -9,7 +9,7 @@ public class Hunt3 {
 	private static File metamorphosis;
 
 	public Hunt3() {
-		metamorphosis = new File("C:\\Users\\User\\eclipse-workspace\\scavChall_3\\src\\metamorphosis.txt");
+		metamorphosis = new File("./ScavChall_3/metamorphosis.txt");
 	}
 	
 	public File getFile() {
