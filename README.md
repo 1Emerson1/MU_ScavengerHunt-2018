@@ -1,4 +1,4 @@
-# Weather Station
+# Code Scavenger Hunt
 
 #### Monmouth University: Code Scavenger Hunt
 
